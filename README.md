@@ -12,7 +12,9 @@ python3 -m venv venv
 
 pip install -r requirements.txt
 
-Now seen carefully, open the config folder and  type ls
+# Now seen carefully
+
+open the config folder and  type ls
 
 Remove  settings.json
 
