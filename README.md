@@ -32,10 +32,7 @@ As an interactive prompt python3 main.py <target username>
   
 Or execute your command straight away python3 main.py <target username> --command <command>
   
-  
-  Download the latest version: git pull origin master
-  
 
-  this tool is same of Osintgram tool so use better Osintgram
+# this tool is same of Osintgram tool so use better Osintgram
   
   
