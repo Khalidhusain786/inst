@@ -31,23 +31,9 @@ As an interactive prompt python3 main.py <target username>
 Or execute your command straight away python3 main.py <target username> --command <command>
   
   
- # Docker Quick Start
-  
-This section will explain how you can quickly use this image with Docker or Docker-compose.
-
-Prerequisites
-Before you can use either Docker or Docker-compose, please ensure you do have the following prerequisites met.
-
-Docker installed - link
-
-  Docker-composed installed (if using Docker-compose) - link
-
-  Credentials configured - This can be done manually or by running the make setup command from the root of this repo
-Important: Your container will fail if you do not do step #3 and configure your credentials
-
-  
-  
   Download the latest version: git pull origin master
+  
 
+  this tool is same of Osintgram tool so use better Osintgram
   
   
