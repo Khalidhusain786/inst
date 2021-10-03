@@ -33,6 +33,6 @@ As an interactive prompt python3 main.py <target username>
 Or execute your command straight away python3 main.py <target username> --command <command>
   
 
-# this tool is same of Osintgram tool so use better Osintgram
+# Thanks for using 
   
   
