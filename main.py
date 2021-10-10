@@ -18,7 +18,7 @@ except:
 
 def printlogo():
     pc.printout(artwork.ascii_art, pc.YELLOW)
-    pc.printout("\nVersion 1.1 - Developed by Giuseppe Criscione\n\n", pc.YELLOW)
+    pc.printout("\nVersion 1.1 - Developed by 𝙆𝙃𝘼𝙇𝙄𝘿 𝙃𝙐𝙎𝘼𝙄𝙉\n\n", pc.YELLOW)
     pc.printout("Type 'list' to show all allowed commands\n")
     pc.printout("Type 'FILE=y' to save results to files like '<target username>_<command>.txt (default is disabled)'\n")
     pc.printout("Type 'FILE=n' to disable saving to files'\n")
