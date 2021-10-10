@@ -17,9 +17,9 @@ except:
 
 
 def printlogo():
-    pc.printout(artwork.ascii_art, pc.AQUA)
+    pc.printout(artwork.ascii_art, pc.YELLOW)
     
-    pc.printout("Dont't Trust Anyone -- Developed by 𝙆𝙝𝙖𝙡𝙞𝙙 𝙃𝙪𝙨𝙖𝙞𝙣 \n\n", pc.MAGENTA)
+    pc.printout("Dont't Trust Anyone -- Developed by 𝙆𝙝𝙖𝙡𝙞𝙙 𝙃𝙪𝙨𝙖𝙞𝙣 \n\n", pc.YELLOW)
     pc.printout("Type 'list' to show all allowed commands\n")
     pc.printout("Type 'FILE=y' to save results to files like '<target username>_<command>.txt (default is disabled)'\n")
     pc.printout("Type 'FILE=n' to disable saving to files'\n")
