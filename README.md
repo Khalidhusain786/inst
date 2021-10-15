@@ -22,6 +22,8 @@ Type ls and write nano credentials.ini
 
 fill the any username and password and than click ctrl+x and save 
 
+type echo "{}" > settings.json and save
+
 If you not use this option type of config folder json threw
 
 Simply write make setup and fill username and password and save
