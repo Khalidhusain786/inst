@@ -28,11 +28,12 @@ If you not use this option type of config folder json threw
 
 Simply write make setup and fill username and password and save
 
+# Run
 Run the main.py script in one of two ways:
 
-As an interactive prompt python3 main.py <target username>
+As an interactive prompt python3 main.py <target name>
   
-Or execute your command straight away python3 main.py <target username> --command <command>
+Or execute your command straight away python3 main.py <target username>
   
 Type list or help and show command list 
 
