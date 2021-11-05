@@ -34,6 +34,7 @@ As an interactive prompt python3 main.py <target username>
   
 Or execute your command straight away python3 main.py <target username> --command <command>
   
+Type list or help and show command list 
 
 # Thanks for using 
   
