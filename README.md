@@ -31,7 +31,7 @@ Simply write make setup and fill username and password and save
 # Run
 Run the main.py script in one or two ways:
 
-As an interactive prompt # python3 main.py (username)
+As an interactive prompt python3 main.py (username)
   
 Or execute your command straight away python3 main.py (username)
   
