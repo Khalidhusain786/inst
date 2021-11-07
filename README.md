@@ -37,6 +37,8 @@ Or execute your command straight away python3 main.py (username)
   
 Type list or help and show command list 
 
-# Thanks for using 
+
+<img align="center" src=".img/pic1.png" width="900">
+<img align="center" src=".img/pic2.png" width="900">
   
   
