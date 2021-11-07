@@ -44,3 +44,4 @@ Or execute your command straight away python3 main.py (username)
   
 Type list or help and show command list 
 
+# Thanks for using 
