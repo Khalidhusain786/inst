@@ -28,6 +28,13 @@ If you not use this option type of config folder json threw
 
 Simply write make setup and fill username and password and save
 
+# Photos
+<img align="center" src=".img/pic1.png" width="900">
+<img align="center" src=".img/pic2.png" width="900">
+<img align="center" src=".img/pic3.png" width="900">  
+<img align="center" src=".img/pic4.png" width="900">
+
+
 # Run
 Run the main.py script in one or two ways:
 
@@ -37,8 +44,3 @@ Or execute your command straight away python3 main.py (username)
   
 Type list or help and show command list 
 
-
-<img align="center" src=".img/pic1.png" width="900">
-<img align="center" src=".img/pic2.png" width="900">
-  
-  
