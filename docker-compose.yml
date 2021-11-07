@@ -2,7 +2,7 @@ version: '3.7'
 
 services:
   osintgram:
-    container_name: osintgram
+    container_name: inst
     build: .
     volumes:
-      - ./output:/home/osintgram/output
+      - ./output:/home/inst/output
